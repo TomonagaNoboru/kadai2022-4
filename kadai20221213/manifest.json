@@ -15,6 +15,10 @@
         {
           "matches": ["https://www2.kobe-u.ac.jp/~tnishida/programming/*"],
           "js": ["gobi.js"]
+        },
+        {
+          "matches": ["https://tabelog.com/*"],
+          "css": ["a.css"]
         }
       ]
 }

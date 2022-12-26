@@ -1,0 +1,6 @@
+.list-rst__photo-item, .list-rst__thumb-list, .list-rst-area-article__img {
+    filter: grayscale(100%);
+}
+.list-rst__photo-item:hover, .list-rst__thumb-lister:hover{
+    filter: none;
+}
